@@ -253,7 +253,7 @@ async function nginx() {
 	</head>
 	<body>
 	<h1>清峰科技</h1>
-        <a heref="https://www.yqfsoft.com">https://www.yqfsoft.com</a>
+        <a href="https://www.yqfsoft.com">https://www.yqfsoft.com</a>
 	</body>
 	</html>
 	`
